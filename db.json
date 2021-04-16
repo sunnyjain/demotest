@@ -3,12 +3,7 @@
     {
       "id": 1,
       "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  },
-  "test": {
+      "content": {
     "apiInactive": false,
     "forceUpdate": false,
     "content":[
@@ -34,4 +29,9 @@
     "minAndroid": "4.0.0", 
     "minIos": "5.0.0" 
 }
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
