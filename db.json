@@ -4,31 +4,8 @@
       "id": 1,
       "title": "hello",
       "content": {
-    "apiInactive": false,
-    "forceUpdate": false,
-    "content":[
-       {
-          "language": "en",
-          "title": "We are working on building a better experience for you, Testing...",
-          "message": "...meanwhile, you can book your favorite room on our mobile site.",
-          "btnMessageIOS": "Continue with Safari",     
-          "btnMessageAndroid": "Continue with Chrome, TEST",
-          "fallbackURL": "https://stg.motel6.com" 
-       },
-       {     
-          "language": "es", 
-          "title": "Estamos en el proceso de mejorar nuestra experiencia.",
-          "message": "Mientras tanto, puede usar nuestro sitio movil para reservar su habitacion favorita.",
-          "btnMessageIOS": "Continuar con Safari",      
-          "btnMessageAndroid": "Continuar con Chrome",
-          "fallbackURL": "https://stg.motel6.com"
-       }
-    ],
-    "androidStoreLink": "https://play.google.com/store/apps/details?id=com.my6.android&hl=en_IN&gl=US", 
-    "iosStoreLink": "https://apps.apple.com/us/app/my6-book-save/id1155659794", 
-    "minAndroid": "4.0.0", 
-    "minIos": "5.0.0" 
-}
+        "apiInactive": false
+      }
     }
   ],
   "profile": {
