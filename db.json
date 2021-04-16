@@ -2,7 +2,10 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "hello",
+      "content": {
+        "apiInactive": false
+      }
     }
   ],
   "profile": {
