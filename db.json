@@ -33,5 +33,8 @@
   ],
   "profile": {
     "name": "typicode"
+  },
+  "test": {
+    "apiInactive": false
   }
 }
