@@ -13,7 +13,7 @@
     "apiInactiveAndroid": false,
     "apiInactiveIOS": false,
     "forceUpdateAndroid": false,
-    "forceUpdateIOS": false,
+    "forceUpdateIOS": true,
     "forceUpdate": false,
     "content":[
        {
