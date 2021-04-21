@@ -11,9 +11,9 @@
   "test": {
     "apiInactive": false,
     "apiInactiveAndroid": true,
-    "apiInactiveIOS": false,
+    "apiInactiveIOS": true,
     "forceUpdateAndroid": false,
-    "forceUpdateIOS": true,
+    "forceUpdateIOS": false,
     "forceUpdate": false,
     "content":[
        {
