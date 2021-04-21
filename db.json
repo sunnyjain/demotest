@@ -10,9 +10,9 @@
   },
   "test": {
     "apiInactive": false,
-    "apiInactiveAndroid": false,
+    "apiInactiveAndroid": true,
     "apiInactiveIOS": false,
-    "forceUpdateAndroid": true,
+    "forceUpdateAndroid": false,
     "forceUpdateIOS": true,
     "forceUpdate": false,
     "content":[
